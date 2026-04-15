@@ -25,7 +25,9 @@ The partnered company is working on a lot of other communications going on, so g
 I wanted to keep polishing and reviewing and testing. I always saw more places things could be more efficent. The deadlines helped me find the right balance between optimizing and progressing through the project. 
 
 ## How to Navigate the Repo: 
-
+My main contribution for the capstone project was creating the 'Data Management.docx' document. Input from my team helped me decide what was key information, and how best to format things for our dashboard analytics. 
+It lead to my creating the 'Consulting Data Dictionary.xlsx'. This, along with the cleaned up dataset, was the jumping off point for my team. 
+'Riipen certificate.pdf' is the certification of my completion of this capstone project. 
 
 ## Privacy/Client Note: 
 The data we were given was anonymized from the start. 
